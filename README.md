@@ -1,2 +1,2 @@
-# casper-block-pack
+# Casper Block Pack
 GitHub Pages
