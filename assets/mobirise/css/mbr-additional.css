@@ -1080,6 +1080,20 @@ a {
   border-radius: 0.5em;
   height: 5px;
 }
+.cid-saigtiMZTY {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+  --mainColor: #ff9800;
+}
+.cid-saigtiMZTY a.imgHover {
+  background: linear-gradient(to right, var(--mainColor) 0%, var(--mainColor) 5px, transparent);
+  background-repeat: repeat-x;
+  background-size: 100%;
+  color: #000;
+  padding-left: 10px;
+  text-decoration: none;
+}
 .cid-sahCMIr5cu {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1182,6 +1196,20 @@ a {
   background-color: #000000;
   border-radius: 0.5em;
   height: 5px;
+}
+.cid-sai8UPsZFq {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+  --mainColor: #ff9800;
+}
+.cid-sai8UPsZFq a.imgHover {
+  background: linear-gradient(to right, var(--mainColor) 0%, var(--mainColor) 5px, transparent);
+  background-repeat: repeat-x;
+  background-size: 100%;
+  color: #000;
+  padding-left: 10px;
+  text-decoration: none;
 }
 .cid-sahCKfhkzB {
   padding-top: 5rem;
