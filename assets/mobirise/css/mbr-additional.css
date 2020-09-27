@@ -11440,12 +11440,12 @@ blockquote {
   letter-spacing: .01em;
   line-height: 1.2em;
 }
-.cid-sbe2ER01CJ {
+.cid-sbNimq85Su {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/kreator-rockharz-july-2019.jpg");
+  background-image: url("../../../assets/images/kreator-rockharz-july-2018.jpg");
 }
-.cid-sbe2ER01CJ p {
+.cid-sbNimq85Su p {
   box-sizing: border-box;
   -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
   -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
@@ -11461,43 +11461,43 @@ blockquote {
   word-break: keep-all;
   border: solid 2px #4479d9;
 }
-.cid-sbe2ER01CJ p:before {
+.cid-sbNimq85Su p:before {
   font-size: 2em;
   content: counter(c, decimal-leading-zero);
   margin: 0 0.75em 0 0.75em;
 }
 @media (max-width: 340px) {
-  .cid-sbe2ER01CJ p:before {
+  .cid-sbNimq85Su p:before {
     font-size: 1.75em;
   }
 }
-.cid-sbe2ER01CJ p:nth-child(odd) {
+.cid-sbNimq85Su p:nth-child(odd) {
   border-radius: 50vh 0 0 50vh;
   transform: translate(10%) rotate(5deg);
   background: linear-gradient(90deg, #cccccc, #4479d9);
   text-align: right;
 }
 @media (max-width: 645px) {
-  .cid-sbe2ER01CJ p:nth-child(odd) {
+  .cid-sbNimq85Su p:nth-child(odd) {
     border-radius: 0 0 0 0;
     transform: translate(0%) rotate(0deg);
     font-size: 0.55em;
   }
 }
-.cid-sbe2ER01CJ p:nth-child(even) {
+.cid-sbNimq85Su p:nth-child(even) {
   background: linear-gradient(-90deg, #cccccc, #4479d9);
   transform: translate(-10%) rotate(-5deg);
   border-radius: 0 50vh 50vh 0;
   text-align: left;
 }
 @media (max-width: 645px) {
-  .cid-sbe2ER01CJ p:nth-child(even) {
+  .cid-sbNimq85Su p:nth-child(even) {
     border-radius: 0 0 0 0;
     transform: translate(0%) rotate(0deg);
     font-size: 0.55em;
   }
 }
-.cid-sbe2ER01CJ p:nth-child(even):before {
+.cid-sbNimq85Su p:nth-child(even):before {
   order: 1;
 }
 .cid-s8mQcCyZla {
